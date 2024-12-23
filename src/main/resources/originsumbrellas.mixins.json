@@ -5,7 +5,8 @@
   "compatibilityLevel": "JAVA_8",
   "mixins": [
     "PlayerConditionsMixin",
-    "PlayerEntityMixin"
+    "PlayerEntityMixin",
+    "EntityMixin"
   ],
   "client": [
   ],
